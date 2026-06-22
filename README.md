@@ -187,22 +187,10 @@ Data Source -	Microsoft Excel
 
 <img width="940" height="530" alt="image" src="https://github.com/user-attachments/assets/30ece25c-4185-40d5-93c2-13351841eef5" />
 
-
-**📂 Repository Structure**
-
-Maxxia-Tech-Quality-Dashboard/
-│
-├── Maxxia Quality Dashboard.pbix
-├── README.md
-│
-└── Images/
-    ├── Tech Quality Summary.png
-    ├── Consultant Quality Over Time.png
-    └── Samples Completed.png
     
 **📌 Project Outcome**
 
-Developed a professional Power BI reporting solution that transformed multiple raw quality datasets into an interactive executive dashboard, enabling efficient monitoring of consultant performance, quality trends, and operational workload.
+Developed a comprehensive Power BI Tech Quality reporting solution that consolidated multiple raw quality datasets into an interactive dashboard, enabling Quality Analysts, Team Leaders, and Operations Leaders to monitor consultant performance, review quality trends, track sample completion, and identify coaching opportunities to support continuous improvement.
 
 👤 Author
 
